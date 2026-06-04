@@ -2,7 +2,7 @@
 **About Me**
 Aspiring Quality Assurance Engineer with training in Manual Testing and Software Quality Assurance. Experienced in creating test cases, test scenarios, defect reports, and testing documentation. Familiar with industry standard tools such as Jira, Zephyr Scale, and Trello.
 Currently preparing for ISTQB CTFL certification and building practical experience through real world testing projects.
-**Skills**
+###**Skills**
 Manual Testing
 Functional Testing
 Regression Testing
