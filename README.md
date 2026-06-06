@@ -66,7 +66,6 @@ Project Highlights:
 
 ## Certifications
 
-* Software Testing Course, Completed
 * ISTQB Certified Tester Foundation Level (CTFL), In Progress
 
 ## Contact
