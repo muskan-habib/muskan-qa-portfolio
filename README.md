@@ -2,59 +2,77 @@
 
 ## About Me
 
-Aspiring Quality Assurance Engineer with training in Manual Testing and Software Quality Assurance.
+I am an aspiring Quality Assurance Engineer with practical experience in Manual Testing, Test Design, Defect Reporting, and Test Documentation. I have hands on experience testing web applications and creating comprehensive QA deliverables using industry standard tools.
 
-Experienced in creating:
-- Test Cases
-- Test Scenarios
-- Defect Reports
-- Testing Documentation
+My portfolio demonstrates real world testing activities including test case creation, test execution, defect management, and reporting through projects completed using TestRail, Jira, and Zephyr Scale.
 
-Familiar with:
-- Jira
-- Zephyr Scale
-- Trello
-- Microsoft Excel
-- Google Sheets
+I am currently expanding my knowledge in Software Testing and preparing for the ISTQB Certified Tester Foundation Level (CTFL) certification.
 
-Currently preparing for ISTQB CTFL certification and building practical experience through real world testing projects.
+## Core Skills
 
-## Skills
+### Software Testing
 
-### Manual Testing
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Exploratory Testing
-- Usability Testing
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* Exploratory Testing
+* Usability Testing
+* Negative Testing
+* Validation Testing
 
-### Test Design
-- Test Cases
-- Test Scenarios
-- Test Execution
-- Defect Tracking
-- Bug Lifecycle
+### Test Design & Execution
 
-### Documentation
-- Bug Reports
-- Test Summary Reports
-- Test Plans
-- QA Documentation
+* Test Case Design
+* Test Scenario Creation
+* Test Execution
+* Test Data Preparation
+* Requirement Validation
+* Defect Identification
+* Defect Lifecycle Management
 
-### Tools
-- Jira
-- Zephyr Scale
-- Trello
-- Microsoft Excel
-- Google Sheets
+### Documentation & Reporting
+
+* Bug Reports
+* Test Summary Reports
+* Test Plans
+* Traceability Documentation
+* Test Execution Reports
+* QA Project Documentation
+
+### Tools & Technologies
+
+* Jira
+* Zephyr Scale
+* TestRail
+* Trello
+* Microsoft Excel
+* Google Sheets
+* GitHub
+
+## Featured Project
+
+### Swag Labs Manual Testing Project
+
+Conducted end to end manual testing of an e commerce web application covering Login, Inventory, Cart, and Checkout modules.
+
+Project Highlights:
+
+* Designed and executed 59 manual test cases
+* Performed positive and negative testing
+* Identified and documented 6 defects
+* Generated test execution and summary reports
+* Maintained defect traceability using Jira and Zephyr Scale
+* Managed test execution using TestRail
 
 ## Certifications
 
-- Software Testing Course Completed
-- ISTQB CTFL (In Progress)
+* Software Testing Course, Completed
+* ISTQB Certified Tester Foundation Level (CTFL), In Progress
 
 ## Contact
 
-LinkedIn: Coming Soon
-
 Telegram: @mbaloach0
+
+GitHub: [Add Your GitHub Profile Link]
+
+LinkedIn: [Add Your LinkedIn Profile Link]
