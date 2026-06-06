@@ -73,6 +73,5 @@ Project Highlights:
 
 Telegram: @mbaloach0
 
-GitHub: [Add Your GitHub Profile Link]
+GitHub: https://github.com/muskan-habib
 
-LinkedIn: [Add Your LinkedIn Profile Link]
